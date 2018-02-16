@@ -1,0 +1,25 @@
+?<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.23930"/>
+        <meta name="ItemCount" content="11"/>
+        <title>TKKG 001 - Die Jagd nach den Millionendieben</title>
+    </head>
+    <body>
+        <seq>
+            <media src="001.jpg"/>
+            <media src="002.jpg"/>
+            <media src="003.jpg"/>
+            <media src="004.jpg"/>
+            <media src="005.jpg"/>
+            <media src="006.jpg"/>
+            <media src="007.jpg"/>
+            <media src="008.jpg"/>
+	    <media src="009.jpg"/>
+	    <media src="010.jpg"/>
+            <media src="011.jpg"/>
+            <media src="012.jpg"/>
+            <media src="013.jpg"/>
+        </seq>
+    </body>
+</smil>

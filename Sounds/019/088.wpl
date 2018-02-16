@@ -2,7 +2,7 @@
 <smil>
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.23930"/>
-        <meta name="ItemCount" content="11"/>
+        <meta name="ItemCount" content="13"/>
         <title></title>
     </head>
     <body>
@@ -18,6 +18,8 @@
             <media src="009.mp3"/>
             <media src="010.mp3"/>
             <media src="011.mp3"/>
+            <media src="012.mp3"/>
+            <media src="013.mp3"/>
         </seq>
     </body>
 </smil>

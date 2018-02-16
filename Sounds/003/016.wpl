@@ -7,21 +7,21 @@
     </head>
     <body>
         <seq>
-            <media src="M:\MP3 Player\003\001.mp3"/>
-            <media src="M:\MP3 Player\003\002.mp3"/>
-            <media src="M:\MP3 Player\003\003.mp3"/>
-            <media src="M:\MP3 Player\003\004.mp3"/>
-            <media src="M:\MP3 Player\003\005.mp3"/>
-            <media src="M:\MP3 Player\003\006.mp3"/>
-            <media src="M:\MP3 Player\003\007.mp3"/>
-            <media src="M:\MP3 Player\003\008.mp3"/>
-            <media src="M:\MP3 Player\003\009.mp3"/>
-            <media src="M:\MP3 Player\003\010.mp3"/>
-            <media src="M:\MP3 Player\003\011.mp3"/>
-            <media src="M:\MP3 Player\003\012.mp3"/>
-            <media src="M:\MP3 Player\003\013.mp3"/>
-            <media src="M:\MP3 Player\003\014.mp3"/>
-            <media src="M:\MP3 Player\003\015.mp3"/>
+            <media src="001.mp3"/>
+            <media src="002.mp3"/>
+            <media src="003.mp3"/>
+            <media src="004.mp3"/>
+            <media src="005.mp3"/>
+            <media src="006.mp3"/>
+            <media src="007.mp3"/>
+            <media src="008.mp3"/>
+            <media src="009.mp3"/>
+            <media src="010.mp3"/>
+            <media src="011.mp3"/>
+            <media src="012.mp3"/>
+            <media src="013.mp3"/>
+            <media src="014.mp3"/>
+            <media src="015.mp3"/>
         </seq>
     </body>
 </smil>

@@ -1,0 +1,21 @@
+﻿<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.23930"/>
+        <meta name="ItemCount" content="09"/>
+        <title>Bollwerk - Unsre Stunde</title>
+    </head>
+    <body>
+        <seq>
+            <media src="M:\MP3 Player\004\001.wma"/>
+            <media src="M:\MP3 Player\004\002.wma"/>
+            <media src="M:\MP3 Player\004\003.wma"/>
+            <media src="M:\MP3 Player\004\004.wma"/>
+            <media src="M:\MP3 Player\004\005.wma"/>
+            <media src="M:\MP3 Player\004\006.wma"/>
+            <media src="M:\MP3 Player\004\007.wma"/>
+            <media src="M:\MP3 Player\004\008.wma"/>
+            <media src="M:\MP3 Player\004\009.wma"/>
+        </seq>
+    </body>
+</smil>

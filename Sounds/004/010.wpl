@@ -7,15 +7,15 @@
     </head>
     <body>
         <seq>
-            <media src="M:\MP3 Player\004\001.wma"/>
-            <media src="M:\MP3 Player\004\002.wma"/>
-            <media src="M:\MP3 Player\004\003.wma"/>
-            <media src="M:\MP3 Player\004\004.wma"/>
-            <media src="M:\MP3 Player\004\005.wma"/>
-            <media src="M:\MP3 Player\004\006.wma"/>
-            <media src="M:\MP3 Player\004\007.wma"/>
-            <media src="M:\MP3 Player\004\008.wma"/>
-            <media src="M:\MP3 Player\004\009.wma"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/004/001.wma"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/004/002.wma"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/004/003.wma"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/004/004.wma"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/004/005.wma"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/004/006.wma"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/004/007.wma"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/004/008.wma"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/004/009.wma"/>
         </seq>
     </body>
 </smil>

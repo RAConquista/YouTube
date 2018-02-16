@@ -1,0 +1,32 @@
+
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.23930"/>
+        <meta name="ItemCount" content="19"/>
+        <title></title>
+    </head>
+    <body>
+        <seq>
+            <media src="001.mp3"/>
+            <media src="002.mp3"/>
+            <media src="003.mp3"/>
+            <media src="004.mp3"/>
+            <media src="005.mp3"/>
+            <media src="006.mp3"/>
+            <media src="007.mp3"/>
+            <media src="008.mp3"/>
+            <media src="009.mp3"/>
+            <media src="010.mp3"/>
+            <media src="011.mp3"/>
+            <media src="012.mp3"/>
+            <media src="013.mp3"/>
+            <media src="014.mp3"/> 
+            <media src="015.mp3"/>
+            <media src="016.mp3"/> 
+            <media src="017.mp3"/>  
+            <media src="018.mp3"/>
+            <media src="019.mp3"/>
+        </seq>
+    </body>
+</smil>

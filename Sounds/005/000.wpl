@@ -1,0 +1,21 @@
+﻿<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.23930"/>
+        <meta name="ItemCount" content="09"/>
+        <title>Helle & Die RACer - Lieder zum Mitsingen</title>
+    </head>
+    <body>
+        <seq>
+            <media src="001.wma"/>
+            <media src="002.wma"/>
+            <media src="003.wma"/>
+            <media src="004.wma"/>
+            <media src="005.wma"/>
+            <media src="006.wma"/>
+            <media src="007.wma"/>
+            <media src="008.wma"/>
+            <media src="009.wma"/>
+        </seq>
+    </body>
+</smil>

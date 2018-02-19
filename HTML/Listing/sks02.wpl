@@ -1,1 +1,29 @@
-
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.23930"/>
+        <meta name="ItemCount" content="1"/>
+        <title></title>
+    </head>
+    <body>
+        <seq>
+            <media src="http://stor77.streamcloud.eu:8080/epv74lkwswoax3ptxyty7x7a6jwd4baxxxev54ihf3z4fix3izfeaolt5e/video.mp4"/>
+            <media src="http://stor70.streamcloud.eu:8080/e7v75psfswoax3ptxysi7apzxvwyhdbxshqqghpmuzr6avoemrk74hofdm/video.mp4"/>
+            <media src="http://stor79.streamcloud.eu:8080/fxv74cswswoax3ptxyty7v7k6dsyx6c6oe55hygjyqx3rvc7ozkfmxnsga/video.mp4"/>
+            <media src="http://stor77.streamcloud.eu:8080/epv75hcfswoax3ptxysi7xh7w57w7djdviamnlmnbrnswjnxyjo2yhdxxe/video.mp4"/>
+            <media src="http://stor79.streamcloud.eu:8080/fxv74ncwswoax3ptxyty7bvruew65rdew57wk6luykexdozcagzovhy2um/video.mp4"/>
+            <media src="http://stor80.streamcloud.eu:8080/f3v74ocwswoax3ptxyty7uxs6er2f6t32k45gooh7z27xrvdu6kcps2h2e/video.mp4"/>
+            <media src="http://stor80.streamcloud.eu:8080/f3v75tkvswoax3ptxyty7uv6vxun7er34pxpykvlrcwdgqlkuq5h3lxa7a/video.mp4"/>
+            <media src="http://stor79.streamcloud.eu:8080/fxv75wsvswoax3ptxyty7wvyx4kpoc4rncbwy34eztvwjpdfq5zwtswy5q/video.mp4"/>
+            <media src="http://stor80.streamcloud.eu:8080/f3v74b2fswoax3ptxysi7r746cno6govk6u344xreiqlapivui6gacr7bi/video.mp4"/>
+            <media src="http://stor80.streamcloud.eu:8080/f3v74g2fswoax3ptxysi7v7rvpm473ag3cj6vcesre25zsl35pmqotsrxa/video.mp4"/>
+            <media src="http://stor80.streamcloud.eu:8080/f3v753kvswoax3ptxyty7rnzvpiir5pmwipaxvylgkii3mjb2wxjyby2k4/video.mp4"/>
+            <media src="http://stor76.streamcloud.eu:8080/elv74lkfswoax3ptxysi7dpgwgk4sq6tlkrykv627fz6pm6or7vgfij5li/video.mp4"/>
+            <media src="http://stor80.streamcloud.eu:8080/f3v75ekiswoax3ptxyty7wpfwdyj27acpzmkbv7wvx2r5exm5nzxinwel4/video.mp4"/>
+            <media src="http://stor70.streamcloud.eu:8080/e7v74pcfswoax3ptxysi7dpgwpej4vqazsekv6p5w2aii3oe6mpoxphpka/video.mp4"/>
+            <media src="http://stor76.streamcloud.eu:8080/elv75rceswoax3ptxysi7ax66xfxdq6srmewgw27kehj5y27whih7q2lzi/video.mp4"/>
+            <media src="http://stor74.streamcloud.eu:8080/edv75q2eswoax3ptxysi7uhzu5py5w2ci5yudrfs4tqzubxffqnaew23hi/video.mp4"/>
+            <media src="http://stor76.streamcloud.eu:8080/elv75tseswoax3ptxysi7tpz7xnvwnqzjadzo4e574ahglw5t7hlf3sxxa/video.mp4"/>
+        </seq>
+    </body>
+</smil>

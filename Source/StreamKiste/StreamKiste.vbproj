@@ -1,0 +1,622 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F59CB5E5-0187-4DE6-8C6C-42AC007DD2A0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>StreamKiste.My.MyApplication</StartupObject>
+    <RootNamespace>StreamKiste</RootNamespace>
+    <AssemblyName>StreamKiste</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>StreamKiste.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>StreamKiste.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>movie-icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Books.Designer.vb">
+      <DependentUpon>Books.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Books.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="D01.Designer.vb">
+      <DependentUpon>D01.vb</DependentUpon>
+    </Compile>
+    <Compile Include="D01.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="D02.Designer.vb">
+      <DependentUpon>D02.vb</DependentUpon>
+    </Compile>
+    <Compile Include="D02.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DimBG.Designer.vb">
+      <DependentUpon>DimBG.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DimBG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dokus.Designer.vb">
+      <DependentUpon>Dokus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dokus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F01.Designer.vb">
+      <DependentUpon>F01.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F01.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F02.Designer.vb">
+      <DependentUpon>F02.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F02.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F03.Designer.vb">
+      <DependentUpon>F03.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F03.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F04.Designer.vb">
+      <DependentUpon>F04.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F04.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F05.Designer.vb">
+      <DependentUpon>F05.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F05.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F06.Designer.vb">
+      <DependentUpon>F06.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F06.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F07.Designer.vb">
+      <DependentUpon>F07.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F07.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F07XFrm.Designer.vb">
+      <DependentUpon>F07XFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F07XFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F08.Designer.vb">
+      <DependentUpon>F08.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F08.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F09.Designer.vb">
+      <DependentUpon>F09.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F09.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F10.Designer.vb">
+      <DependentUpon>F10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F11.Designer.vb">
+      <DependentUpon>F11.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F11.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F12.Designer.vb">
+      <DependentUpon>F12.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F12.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F13.Designer.vb">
+      <DependentUpon>F13.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F13.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F14.Designer.vb">
+      <DependentUpon>F14.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F14.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F15.Designer.vb">
+      <DependentUpon>F15.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F15.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F16.Designer.vb">
+      <DependentUpon>F16.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F16.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F17.Designer.vb">
+      <DependentUpon>F17.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F17.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F18.Designer.vb">
+      <DependentUpon>F18.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F18.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F19.Designer.vb">
+      <DependentUpon>F19.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F19.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F20.Designer.vb">
+      <DependentUpon>F20.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F20.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F21.Designer.vb">
+      <DependentUpon>F21.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F21.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F22.Designer.vb">
+      <DependentUpon>F22.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F22.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F23.Designer.vb">
+      <DependentUpon>F23.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F23.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F24.Designer.vb">
+      <DependentUpon>F24.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F24.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F25.Designer.vb">
+      <DependentUpon>F25.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F25.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F26.Designer.vb">
+      <DependentUpon>F26.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F26.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F27.Designer.vb">
+      <DependentUpon>F27.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F27.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F28.Designer.vb">
+      <DependentUpon>F28.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F28.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F29.Designer.vb">
+      <DependentUpon>F29.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F29.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F30.Designer.vb">
+      <DependentUpon>F30.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F30.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filme.Designer.vb">
+      <DependentUpon>Filme.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Filme.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Guide.Designer.vb">
+      <DependentUpon>Guide.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Guide.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="H01.Designer.vb">
+      <DependentUpon>H01.vb</DependentUpon>
+    </Compile>
+    <Compile Include="H01.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="H02.Designer.vb">
+      <DependentUpon>H02.vb</DependentUpon>
+    </Compile>
+    <Compile Include="H02.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hidden.Designer.vb">
+      <DependentUpon>Hidden.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hidden.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IPTV.Designer.vb">
+      <DependentUpon>IPTV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IPTV.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LiveTV.Designer.vb">
+      <DependentUpon>LiveTV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LiveTV.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Index.Designer.vb">
+      <DependentUpon>Index.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Index.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Playlist Editor.Designer.vb">
+      <DependentUpon>Playlist Editor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Playlist Editor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="S01.Designer.vb">
+      <DependentUpon>S01.vb</DependentUpon>
+    </Compile>
+    <Compile Include="S01.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="S02.Designer.vb">
+      <DependentUpon>S02.vb</DependentUpon>
+    </Compile>
+    <Compile Include="S02.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Serien.Designer.vb">
+      <DependentUpon>Serien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Serien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Time.Designer.vb">
+      <DependentUpon>Time.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Time.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TV01.Designer.vb">
+      <DependentUpon>TV01.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TV01.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Books.resx">
+      <DependentUpon>Books.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="D01.resx">
+      <DependentUpon>D01.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="D02.resx">
+      <DependentUpon>D02.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DimBG.resx">
+      <DependentUpon>DimBG.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dokus.resx">
+      <DependentUpon>Dokus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F01.resx">
+      <DependentUpon>F01.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F02.resx">
+      <DependentUpon>F02.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F03.resx">
+      <DependentUpon>F03.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F04.resx">
+      <DependentUpon>F04.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F05.resx">
+      <DependentUpon>F05.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F06.resx">
+      <DependentUpon>F06.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F07.resx">
+      <DependentUpon>F07.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F07XFrm.resx">
+      <DependentUpon>F07XFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F08.resx">
+      <DependentUpon>F08.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F09.resx">
+      <DependentUpon>F09.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F10.resx">
+      <DependentUpon>F10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F11.resx">
+      <DependentUpon>F11.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F12.resx">
+      <DependentUpon>F12.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F13.resx">
+      <DependentUpon>F13.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F14.resx">
+      <DependentUpon>F14.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F15.resx">
+      <DependentUpon>F15.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F16.resx">
+      <DependentUpon>F16.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F17.resx">
+      <DependentUpon>F17.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F18.resx">
+      <DependentUpon>F18.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F19.resx">
+      <DependentUpon>F19.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F20.resx">
+      <DependentUpon>F20.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F21.resx">
+      <DependentUpon>F21.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F22.resx">
+      <DependentUpon>F22.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F23.resx">
+      <DependentUpon>F23.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F24.resx">
+      <DependentUpon>F24.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F25.resx">
+      <DependentUpon>F25.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F26.resx">
+      <DependentUpon>F26.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F27.resx">
+      <DependentUpon>F27.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F28.resx">
+      <DependentUpon>F28.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F29.resx">
+      <DependentUpon>F29.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F30.resx">
+      <DependentUpon>F30.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filme.resx">
+      <DependentUpon>Filme.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Guide.resx">
+      <DependentUpon>Guide.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="H01.resx">
+      <DependentUpon>H01.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="H02.resx">
+      <DependentUpon>H02.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hidden.resx">
+      <DependentUpon>Hidden.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IPTV.resx">
+      <DependentUpon>IPTV.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LiveTV.resx">
+      <DependentUpon>LiveTV.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Index.resx">
+      <DependentUpon>Index.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Playlist Editor.resx">
+      <DependentUpon>Playlist Editor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="S01.resx">
+      <DependentUpon>S01.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="S02.resx">
+      <DependentUpon>S02.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Serien.resx">
+      <DependentUpon>Serien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Time.resx">
+      <DependentUpon>Time.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TV01.resx">
+      <DependentUpon>TV01.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxAXVLC">
+      <Guid>{DF2BBE39-40A8-433B-A279-073F48DA94B6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AXVLC">
+      <Guid>{DF2BBE39-40A8-433B-A279-073F48DA94B6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="movie-icon.ico" />
+    <None Include="Resources\banner_oben.png" />
+    <None Include="Resources\button-black-1153971.jpg" />
+    <None Include="Resources\Silver_Panel.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

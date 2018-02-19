@@ -7,7 +7,7 @@
     </head>
     <body>
         <seq>
-        <media src=""/>
+        <media src="http://stor1.streamcloud.eu:8080/shv74jsqtwoax3ptxzgi7dn3wjt34uwtvbuw3fyux3rk4g2uv2v6brcmjq/video.mp4"/>
         </seq>
     </body>
 </smil>

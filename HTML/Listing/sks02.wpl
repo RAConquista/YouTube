@@ -8,8 +8,8 @@
     <body>
         <seq>
             <media src="https://archive.org/download/S01E01_201802/S01E01.mp4"/>
-            <media src="https://archive.org/download/S01E02_201802/S01E02.mp4"/>
-            <media src="https://archive.org/download/S01E03_201802/S01E03.mp4"/>
+            <media src="https://archive.org/download/S01E01_201802/S01E02.mp4"/>
+            <media src="https://archive.org/download/S01E01_201802/S01E03.mp4"/>
             <media src="https://archive.org/download/S01E06_201802/S01E04.mp4"/>
             <media src="https://archive.org/download/S01E06_201802/S01E05.mp4"/>
             <media src="https://archive.org/download/S01E06_201802/S01E06.mp4"/>

@@ -1,1 +1,13 @@
-
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.23930"/>
+        <meta name="ItemCount" content="1"/>
+        <title>Cinderella 87</title>
+    </head>
+    <body>
+        <seq>
+        <media src="https://archive.org/download/Cinderella.87.swr.long.version.DVDRip.german.AC3.XviD/Cinderella.87.swr.long.version.DVD-Rip.german.AC3.XviD.mp4"/>
+        </seq>
+    </body>
+</smil>

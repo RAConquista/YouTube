@@ -1,0 +1,16 @@
+<?wpl version="1.0"?>
+<smil>
+	<head>
+		<meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5145"/>
+		<meta name="AverageRating" content="0"/>
+		<meta name="TotalDuration" content="0"/>
+		<meta name="ItemCount" content="1"/>
+		<author/>
+		<title>James Bond 007: Der Morgen stirbt nie</title>
+	</head>
+	<body>
+		<seq>
+			<media src="https://archive.org/download/JamesBond007_201802/James%20Bond%20007%20-%20Der%20Morgen%20stirbt%20nie.mp4" />
+		</seq>
+	</body>
+</smil>

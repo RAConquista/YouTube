@@ -1,0 +1,26 @@
+<?wpl version="1.0"?>
+<smil>
+	<head>
+		<meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5145"/>
+		<meta name="AverageRating" content="0"/>
+		<meta name="TotalDuration" content="0"/>
+		<meta name="ItemCount" content="11"/>
+		<author/>
+		<title>Under the Black Sun: Under the Surface</title>
+	</head>
+	<body>
+		<seq>
+			<media src="001.mp3" />
+			<media src="002.mp3" />
+			<media src="003.mp3" />
+			<media src="004.mp3" />
+			<media src="005.mp3" />
+			<media src="006.mp3" />
+			<media src="007.mp3" />
+			<media src="008.mp3" />
+			<media src="009.mp3" />
+			<media src="010.mp3" />
+                        <media src="011.mp3" />
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,20 @@
+<?wpl version="1.0"?>
+<smil>
+	<head>
+		<meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5145"/>
+		<meta name="AverageRating" content="0"/>
+		<meta name="TotalDuration" content="0"/>
+		<meta name="ItemCount" content="5"/>
+		<author/>
+		<title></title>
+	</head>
+	<body>
+		<seq>
+			<media src="https://archive.org/download/JamesBond007_201802/James%20Bond%20007%20-%20Der%20Hauch%20des%20Todes.mp4" />
+			<media src="https://archive.org/download/JamesBond007_201802/James%20Bond%20007%20-%20Der%20Morgen%20stirbt%20nie.mp4" />
+			<media src="https://archive.org/download/JamesBond007_201802/James%20Bond%20007%20-%20Der%20Spion%20der%20mich%20liebte.mp4" />
+			<media src="https://archive.org/download/JamesBond007_201802/James%20Bond%20007%20-%20Diamantenfieber.mp4" />
+			<media src="https://archive.org/download/JamesBond007_201802/James%20Bond%20007%20-%20Ein%20Quantum%20Trost.mp4" />
+		</seq>
+	</body>
+</smil>

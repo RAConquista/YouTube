@@ -7,14 +7,14 @@
     </head>
     <body>
         <seq>
-            <media src="001.mp3"/>
-            <media src="002.mp3"/>
-            <media src="003.mp3"/>
-            <media src="004.mp3"/>
-            <media src="005.mp3"/>
-            <media src="006.mp3"/>
-            <media src="007.mp3"/>
-            <media src="008.mp3"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/BG/001/001.mp3"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/BG/001/002.mp3"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/BG/001/003.mp3"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/BG/001/004.mp3"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/BG/001/005.mp3"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/BG/001/006.mp3"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/BG/001/007.mp3"/>
+            <media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/BG/001/008.mp3"/>
         </seq>
     </body>
 </smil>

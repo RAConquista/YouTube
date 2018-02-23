@@ -4,7 +4,7 @@
 		<meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5145"/>
 		<meta name="AverageRating" content="0"/>
 		<meta name="TotalDuration" content="0"/>
-		<meta name="ItemCount" content="12"/>
+		<meta name="ItemCount" content="24"/>
 		<author/>
 		<title></title>
 	</head>
@@ -22,6 +22,18 @@
 			<media src="https://archive.org/download/TAAHM01/010.mp4" />
 			<media src="https://archive.org/download/TAAHM01/011.mp4" />
 			<media src="https://archive.org/download/TAAHM01/012.mp4" />
+			<media src="https://archive.org/download/TAAHM01/013.mp4" />
+			<media src="https://archive.org/download/TAAHM01/014.mp4" />
+			<media src="https://archive.org/download/TAAHM01/015.mp4" />
+			<media src="https://archive.org/download/TAAHM01/016.mp4" />
+			<media src="https://archive.org/download/TAAHM01/017.mp4" />
+			<media src="https://archive.org/download/TAAHM01/018.mp4" />
+			<media src="https://archive.org/download/TAAHM01/019.mp4" />
+			<media src="https://archive.org/download/TAAHM01/020.mp4" />
+			<media src="https://archive.org/download/TAAHM01/021.mp4" />
+			<media src="https://archive.org/download/TAAHM01/022.mp4" />
+			<media src="https://archive.org/download/TAAHM01/023.mp4" />
+			<media src="https://archive.org/download/TAAHM01/024.mp4" />
 		</seq>
 	</body>
 </smil>

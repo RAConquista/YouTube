@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:0,Episode 1
-https://raw.githubusercontent.com/EmuZONE/YouTube/master/Source/StreamKiste/Resources/Nearby/Theme/Adu/002/Adul002.mp4
-#EXTINF:0,Episode 2
-https://raw.githubusercontent.com/EmuZONE/YouTube/master/Source/StreamKiste/Resources/Nearby/Theme/Adu/002/Adu001_0.mp4
-#EXTINF:0,Episode 3
-https://raw.githubusercontent.com/EmuZONE/YouTube/master/Source/StreamKiste/Resources/Nearby/Theme/Adu/002/Adu001_1.mp4
-#EXTINF:0,Episode 4
-https://raw.githubusercontent.com/EmuZONE/YouTube/master/Source/StreamKiste/Resources/Nearby/Theme/Adu/002/Adu001_2.mp4
+#EXTINF:0,Channel 1
+https://raw.githubusercontent.com/EmuZONE/YouTube/master/Source/StreamKiste/Resources/Nearby/Theme/Adu/003/Adul002.mp4
+#EXTINF:0,Channel 2
+https://raw.githubusercontent.com/EmuZONE/YouTube/master/Source/StreamKiste/Resources/Nearby/Theme/Adu/003/Adul002_0.mp4
+#EXTINF:0,Channel 3
+https://raw.githubusercontent.com/EmuZONE/YouTube/master/Source/StreamKiste/Resources/Nearby/Theme/Adu/003/Adul002_1.mp4
+#EXTINF:0,Channel 4
+https://raw.githubusercontent.com/EmuZONE/YouTube/master/Source/StreamKiste/Resources/Nearby/Theme/Adu/003/Adul002_2.mp4
+#EXTINF:0,Channel 5
+https://raw.githubusercontent.com/EmuZONE/YouTube/master/Source/StreamKiste/Resources/Nearby/Theme/Adu/003/Adul002_3.mp4

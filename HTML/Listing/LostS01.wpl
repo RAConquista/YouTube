@@ -1,0 +1,43 @@
+<?wpl version="1.0"?>
+<smil>
+	<head>
+		<meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5145"/>
+		<meta name="AverageRating" content="0"/>
+		<meta name="TotalDuration" content="0"/>
+		<meta name="ItemCount" content="28"/>
+		<author/>
+		<title></title>
+	</head>
+	<body>
+		<seq>
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e01.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e01.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e01.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e01.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e02.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e03.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e04.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e05.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e06.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e07.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e08.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e09.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e10.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e11.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e12.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e13.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e14.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e15.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e16.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e17.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e18.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e19.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e20.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e21.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e22.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e23.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e24.avi.mp4" />
+			<media src="https://archive.org/download/Lost-S01/itg-lost-s01e25.avi.mp4" />
+		</seq>
+	</body>
+</smil>

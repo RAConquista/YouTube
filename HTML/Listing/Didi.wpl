@@ -1,0 +1,20 @@
+<?wpl version="1.0"?>
+<smil>
+	<head>
+		<meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5145"/>
+		<meta name="AverageRating" content="0"/>
+		<meta name="TotalDuration" content="0"/>
+		<meta name="ItemCount" content="5"/>
+		<author/>
+		<title>Dieter Hallervorden Collection</title>
+	</head>
+	<body>
+		<seq>
+			<media src="https://archive.org/download/My80sFavorites/Ach%20du%20lieber%20Harry%20%281981%29.mp4" />
+			<media src="https://archive.org/download/KleinErnaAufDemJungfernstieg1969/Didi%20auf%20vollen%20Touren.mp4" />
+			<media src="https://archive.org/download/My80sFavorites/Didi%20-%20Der%20Doppelg%C3%A4nger%20%281984%29.mp4" />
+			<media src="https://archive.org/download/My80sFavorites/Didi-DerExperte1988.mp4" />
+			<media src="https://archive.org/download/My80sFavorites/DidiUndDieRacheDerEnterbten.mp4" />
+		</seq>
+	</body>
+</smil>

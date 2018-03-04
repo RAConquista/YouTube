@@ -1,0 +1,23 @@
+<?wpl version="1.0"?>
+<smil>
+	<head>
+		<meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5145"/>
+		<meta name="AverageRating" content="0"/>
+		<meta name="TotalDuration" content="0"/>
+		<meta name="ItemCount" content="8"/>
+		<author/>
+		<title>Kult-Horror Kino</title>
+	</head>
+	<body>
+		<seq>
+			<media src="https://archive.org/download/ClassicMovieCollection/Tanz%20der%20Teufel%20%281981%29.mp4" />
+			<media src="https://archive.org/download/ClassicMovieCollection/Tanz%20der%20Teufel%202%20%281984%29.mp4" />
+			<media src="https://archive.org/download/ClassicMovieCollection/Tanz%20der%20Teufel%203%20%281992%29.mp4" />
+			<media src="https://archive.org/download/ClassicMovieCollection/Tant%20der%20Teufel%204.mp4" />
+			<media src="https://archive.org/download/ClassicMovieCollection/Braindead%20%281992%29.mp4" />
+			<media src="https://archive.org/download/ClassicMovieCollection/A%20Nightmare%20on%20Elm%20Street%20%282010%29.mp4" />
+			<media src="https://archive.org/download/ClassicMovieCollection/EventHorizon.mp4" />
+			<media src="https://archive.org/download/ClassicMovieCollection/LostInSpace.mp4" />
+		</seq>
+	</body>
+</smil>

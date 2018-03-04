@@ -1,0 +1,39 @@
+<?wpl version="1.0"?>
+<smil>
+	<head>
+		<meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5145"/>
+		<meta name="AverageRating" content="0"/>
+		<meta name="TotalDurationa" content="0"/>
+		<meta name="ItemCount" content="24"/>
+		<author/>
+		<title></title>
+	</head>
+	<body>
+		<seq>
+			<media src="https://archive.org/download/Lost-S02/isd-lostxvid-s02e01.mp4" />
+			<media src="https://archive.org/download/Lost-S02/isd-lostxvid-s02e02.mp4" />
+			<media src="https://archive.org/download/Lost-S02/isd-lostxvid-s02e03.mp4" />
+			<media src="https://archive.org/download/Lost-S02/isd-lostxvid-s02e04.mp4" />
+			<media src="https://archive.org/download/Lost-S02/isd-s02e05.mp4" />
+			<media src="https://archive.org/download/Lost-S02/isd-s02e06.mp4" />
+			<media src="https://archive.org/download/Lost-S02/isd-s02e07.mp4" />
+			<media src="https://archive.org/download/Lost-S02/isd-lostxvid-s02e08.mp4" />
+			<media src="https://archive.org/download/Lost-S02/isd-lostxvid-s02e09.mp4" />
+			<media src="https://archive.org/download/Lost-S02/isd-lostxvid-s02e10.mp4" />
+			<media src="https://archive.org/download/Lost-S02/isd-lostxvid-s02e11.mp4" />
+			<media src="https://archive.org/download/Lost-S02/isd-lostxvid-s02e12.mp4" />
+			<media src="https://archive.org/download/Lost-S02/isd-lostdxvid-s02e13.mp4" />
+			<media src="https://archive.org/download/Lost-S02/isd-lostdxvid-s02e14.mp4" />
+			<media src="https://archive.org/download/Lost-S02/isd-lostdxvid-s02e15.mp4" />
+			<media src="https://archive.org/download/Lost-S02/isd-lostdxvid-s02e16.mp4" />
+			<media src="https://archive.org/download/Lost-S02/isd-lostdxvid-s02e17.mp4" />
+			<media src="https://archive.org/download/Lost-S02/isd-lostdxvid-s02e18.mp4" />
+			<media src="https://archive.org/download/Lost-S02/isd-lostdxvid-s02e19.mp4" />
+			<media src="https://archive.org/download/Lost-S02/isd-lostdxvid-s02e20.mp4" />
+			<media src="https://archive.org/download/Lost-S02/isd-lostdxvid-s02e21.mp4" />
+			<media src="https://archive.org/download/Lost-S02/isd-lostdxvid-s02e22.mp4" />
+			<media src="https://archive.org/download/Lost-S02/isd-lostdxvid-s02e23.mp4" />
+			<media src="https://archive.org/download/Lost-S02/isd-lostdxvid-s02e24.mp4" />
+		</seq>
+	</body>
+</smil>

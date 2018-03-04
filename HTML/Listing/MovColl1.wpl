@@ -1,0 +1,31 @@
+<?wpl version="1.0"?>
+<smil>
+	<head>
+		<meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5145"/>
+		<meta name="AverageRating" content="0"/>
+		<meta name="TotalDuration" content="0"/>
+		<meta name="ItemCount" content="16"/>
+		<author/>
+		<title>Film Collection Vol.1</title>
+	</head>
+	<body>
+		<seq>
+			<media src="https://archive.org/download/OldSchool-Movies/Cliffhanger.mp4" />
+			<media src="https://archive.org/download/OldSchool-Movies/FromDuskTillDawn.mp4" />
+			<media src="https://archive.org/download/OldSchool-Movies/CowboysAliens.mp4" />
+			<media src="https://archive.org/download/OldSchool-Movies/Signs%20-%20Zeichen.mp4" />
+			<media src="https://archive.org/download/OldSchool-Movies/The%20Sixt%20Sence.mp4" />
+			<media src="https://archive.org/download/CinemaOf90/Fight%20Club%20%281999%29.mp4" />
+			<media src="https://archive.org/download/My80sFavorites/Highlander.mp4" />
+			<media src="https://archive.org/download/ClassicMovieCollection/Ein%20Zwilling%20kommt%20selten%20allein.mp4" />
+			<media src="https://archive.org/download/CinemaOf90/Pulp%20Fiction%20%281994%29.mp4" />
+			<media src="https://archive.org/download/CinemaOf90/Ueberleben.mp4" />
+			<media src="https://archive.org/download/CinemaOf90/Highlander%20V%20-%20Quelle%20der%20Unsterblichkeit.mp4" />
+			<media src="https://archive.org/download/CinemaOf90/Highlander-DieMachtDerVergeltung2007.mp4" />
+			<media src="https://archive.org/download/CinemaOf90/NachEigenenRegeln1996.mp4" />
+			<media src="https://archive.org/download/CinemaOf90/Goodfellas.mp4" />
+			<media src="https://archive.org/download/CinemaOf90/Es%20war%20einmal%20in%20Amerika%20%281984%29.mp4" />
+			<media src="https://archive.org/download/CinemaOf90/The%20Ark%20-%20Wir%20sind%20nicht%20allein%20%282013%29%20HD%20Stream%20%C2%BB.mp4" />
+		</seq>
+	</body>
+</smil>

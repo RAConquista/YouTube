@@ -1,0 +1,28 @@
+<?wpl version="1.0"?>
+<smil>
+	<head>
+		<meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5145"/>
+		<meta name="AverageRating" content="0"/>
+		<meta name="TotalDuration" content="0"/>
+		<meta name="ItemCount" content="13"/>
+		<author/>
+		<title>Sechserpack: Staffel 1</title>
+	</head>
+	<body>
+		<seq>
+			<media src="https://archive.org/download/SechserpackS01/S01E01.mp4" />
+			<media src="https://archive.org/download/SechserpackS01/S01E02.mp4" />
+			<media src="https://archive.org/download/SechserpackS01/S01E03.mp4" />
+			<media src="https://archive.org/download/SechserpackS01/S01E04.mp4" />
+			<media src="https://archive.org/download/SechserpackS01/S01E05.mp4" />
+			<media src="https://archive.org/download/SechserpackS01/S01E06.mp4" />
+			<media src="https://archive.org/download/SechserpackS01/S01E07.mp4" />
+			<media src="https://archive.org/download/SechserpackS01/S01E08.mp4" />
+			<media src="https://archive.org/download/SechserpackS01/S01E09.mp4" />
+			<media src="https://archive.org/download/SechserpackS01/S01E10.mp4" />
+			<media src="https://archive.org/download/SechserpackS01/S01E11.mp4" />
+			<media src="https://archive.org/download/SechserpackS01/S01E12.mp4" />
+			<media src="https://archive.org/download/SechserpackS01/S01E13.mp4" />
+		</seq>
+	</body>
+</smil>

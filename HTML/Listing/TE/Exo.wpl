@@ -1,0 +1,35 @@
+<?wpl version="1.0"?>
+<smil>
+	<head>
+		<meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5145"/>
+		<meta name="AverageRating" content="0"/>
+		<meta name="TotalDuration" content="0"/>
+		<meta name="ItemCount" content="20"/>
+		<author/>
+		<title>The Exorcist</title>
+	</head>
+	<body>
+		<seq>
+			<media src="https://archive.org/download/TES01E01/TES01E01.mp4" />
+			<media src="https://archive.org/download/TES01E01/TES01E02.mp4" />
+			<media src="https://archive.org/download/TES01E01/TES01E03.mp4" />
+			<media src="https://archive.org/download/TES01E01/TES01E04.mp4" />
+			<media src="https://archive.org/download/TES01E01/TES01E05.mp4" />
+			<media src="https://archive.org/download/TES01E01/TES01E06.mp4" />
+			<media src="https://archive.org/download/TES01E01/TES01E07.mp4" />
+			<media src="https://archive.org/download/TES01E01/TES01E08.mp4" />
+			<media src="https://archive.org/download/TES01E01/TES01E09.mp4" />
+			<media src="https://archive.org/download/TES01E01/TES01E10.mp4" />
+			<media src="https://archive.org/download/TheExo/S02E01.mp4" />
+			<media src="https://archive.org/download/TheExo/S02E02.mp4" />
+			<media src="https://archive.org/download/TheExo/S02E03.mp4" />
+			<media src="https://archive.org/download/TheExo/S02E04.mp4" />
+			<media src="https://archive.org/download/TheExo/S02E05.mp4" />
+			<media src="https://archive.org/download/TheExo/S02E06.mp4" />
+			<media src="https://archive.org/download/TheExo/S02E07.mp4" />
+			<media src="https://archive.org/download/TheExo/S02E08.mp4" />
+			<media src="https://archive.org/download/TheExo/S02E09.mp4" />
+			<media src="https://archive.org/download/TheExo/S02E10.mp4" />
+		</seq>
+	</body>
+</smil>

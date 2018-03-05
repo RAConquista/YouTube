@@ -1,0 +1,22 @@
+<?wpl version="1.0"?>
+<smil>
+	<head>
+		<meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5145"/>
+		<meta name="AverageRating" content="0"/>
+		<meta name="TotalDuration" content="0"/>
+		<meta name="ItemCount" content="7"/>
+		<author/>
+		<title>Die Lümmel von der ersten Bank</title>
+	</head>
+	<body>
+		<seq>
+			<media src="https://archive.org/download/PepeDerPaukerschreck/Die%20L%C3%BCmmel%20von%20der%20ersten%20Bank%20%281968%29%20HD%20Stream%20%C2%BB.mp4" />
+			<media src="https://archive.org/download/DieLmmelV.d.ErstenBankVol.1/Zum%20Teufel%20mit%20der%20Penne%20%281968%29.mp4" />
+			<media src="https://archive.org/download/PepeDerPaukerschreck/Pepe%2C%20der%20Paukerschreck.mp4" />
+			<media src="https://archive.org/download/DieLmmelV.d.ErstenBankVol.1/Hurra%2C%20die%20Schule%20brennt.mp4" />
+			<media src="https://archive.org/download/MadeOfSteelHartWieStahl/Wir%20haun%20die%20Pauker%20in%20die%20Pfanne%20%281970%29%20HD%20Stream%20%C2%BB.mp4" />
+			<media src="https://archive.org/download/MadeOfSteelHartWieStahl/Morgen%20f%C3%A4llt%20die%20Schule%20aus%20%281971%29%20HD%20Stream%20%C2%BB%20StreamKistetv.mp4" />
+			<media src="https://archive.org/download/MadeOfSteelHartWieStahl/Betragen%20ungen%C3%BCgend%20%281972%29%20HD%20Stream%20%C2%BB%20StreamKistetv.mp4" />
+		</seq>
+	</body>
+</smil>

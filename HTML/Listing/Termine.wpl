@@ -2,9 +2,9 @@
 <smil>
 	<head>
 		<meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5145"/>
-		<meta name="AverageRating" content="0"/>
+		<meta name="AverageRating" content="10"/>
 		<meta name="TotalDuration" content="0"/>
-		<meta name="ItemCount" content="4"/>
+		<meta name="ItemCount" content="5"/>
 		<author/>
 		<title>The Terminator Collection</title>
 	</head>
@@ -14,6 +14,7 @@
 			<media src="https://archive.org/download/OldSchool-Movies/Terminator2.mp4" />
 			<media src="https://archive.org/download/OldSchool-Movies/Terminator3.mp4" />
 			<media src="https://archive.org/download/OldSchool-Movies/Terminator4.mp4" />
+			<media src="https://archive.org/download/OldSchool-Movies/Terminator.5.Genesys.mp4" />
 		</seq>
 	</body>
 </smil>

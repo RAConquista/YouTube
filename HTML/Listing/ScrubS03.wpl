@@ -1,0 +1,39 @@
+<?wpl version="1.0"?>
+<smil>
+	<head>
+		<meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5145"/>
+		<meta name="AverageRating" content="0"/>
+		<meta name="TotalDuration" content="0"/>
+		<meta name="ItemCount" content="24"/>
+		<author/>
+		<title>Scrubs - Die Anfänger: Staffel 3</title>
+	</head>
+	<body>
+		<seq>
+			<media src="https://archive.org/download/ScrubsS03/S03E01.mp4" />
+			<media src="https://archive.org/download/ScrubsS03/S03E02.mp4" />
+			<media src="https://archive.org/download/ScrubsS03/S03E03.mp4" />
+			<media src="https://archive.org/download/ScrubsS03/S03E04.mp4" />
+			<media src="https://archive.org/download/ScrubsS03/S03E05.mp4" />
+			<media src="https://archive.org/download/ScrubsS03/S03E06.mp4" />
+			<media src="https://archive.org/download/ScrubsS03/S03E07.mp4" />
+			<media src="https://archive.org/download/ScrubsS03/S03E08.mp4" />
+			<media src="https://archive.org/download/ScrubsS03/S03E09.mp4" />
+			<media src="https://archive.org/download/ScrubsS03/S03E10.mp4" />
+			<media src="https://archive.org/download/ScrubsS03/S03E11.mp4" />
+			<media src="https://archive.org/download/ScrubsS03/S03E12.mp4" />
+			<media src="https://archive.org/download/ScrubsS03/S03E13.mp4" />
+			<media src="https://archive.org/download/ScrubsS03/S03E14.mp4" />
+			<media src="https://archive.org/download/ScrubsS03/S03E15.mp4" />
+			<media src="https://archive.org/download/ScrubsS03/S03E16.mp4" />
+			<media src="https://archive.org/download/ScrubsS03/S03E17.mp4" />
+			<media src="https://archive.org/download/ScrubsS03/S03E18.mp4" />
+			<media src="https://archive.org/download/ScrubsS03/S03E19.mp4" />
+			<media src="https://archive.org/download/ScrubsS03/S03E20.mp4" />
+			<media src="https://archive.org/download/ScrubsS03/S03E21.mp4" />
+			<media src="https://archive.org/download/ScrubsS03/S03E22.mp4" />
+			<media src="https://archive.org/download/ScrubsS03/S03E23.mp4" />
+			<media src="https://archive.org/download/ScrubsS03/S03E24.mp4" />
+		</seq>
+	</body>
+</smil>

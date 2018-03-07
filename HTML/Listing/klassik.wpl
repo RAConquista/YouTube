@@ -1,0 +1,29 @@
+<?wpl version="1.0"?>
+<smil>
+	<head>
+		<meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5145"/>
+		<meta name="AverageRating" content="0"/>
+		<meta name="TotalDuration" content="0"/>
+		<meta name="ItemCount" content="14"/>
+		<author/>
+		<title>Classic Movies</title>
+	</head>
+	<body>
+		<seq>
+			<media src="https://archive.org/download/HeintjeEinmalWirdDieSonneWiederScheinenDeutschland1970Spielfilm/Heintje_Einmal_wird_die_Sonne_wieder_scheinen_Deutschland_1970_Spielfilm.mp4" />
+			<media src="https://archive.org/download/HeintjeEinHerzGehtAufReisenDeutschland1969Spielfilm/Heintje_Ein_Herz_geht_auf_Reisen_Deutschland_1969_Spielfilm.mp4" />
+			<media src="https://archive.org/download/HeintjeMeinBesterFreundDeutschland1970SpielfilmSchlagerHeimatkomoedie/Heintje_Mein_bester_Freund_Deutschland_1970_Spielfilm_Schlager_Heimatkomoedie.mp4" />
+			<media src="https://archive.org/download/WennDuBeiMirBistDeutschland1970SpielfilmRoyBlack/Wenn_du_bei_mir_bist_Deutschland_1970_Spielfilm_Roy_Black.mp4" />
+			<media src="https://archive.org/download/DerLachendeVagabundDeutschland1958SpielflmMusikfilmFredBertelmann/Der_lachende_Vagabund_Deutschland_1958_Spielflm_Musikfilm_Fred_Bertelmann.mp4" />
+			<media src="https://archive.org/download/FreddyUndDasLiedDerPraerieSpielfilmWesternMusik1964Deutschland/Freddy_und_das_Lied_der_Praerie_Spielfilm_Western_Musik_1964_Deutschland.mp4" />
+			<media src="https://archive.org/download/WennDerWeisseFliederWiederBluehtDeutschland1953SpielfilmMusikfilm/Wenn_der_weisse_Flieder_wieder_blueht_Deutschland_1953_Spielfilm_Musikfilm.mp4" />
+			<media src="https://archive.org/download/WinnetouIWesternklassikerWesternDeutschland1963/Winnetou_I_Westernklassiker_Western_Deutschland_1963.mp4" />
+			<media src="https://archive.org/download/WinnetouIIWesternklassikerWesternfilmDeutschland1964/Winnetou_II_Westernklassiker_Westernfilm_Deutschland_1964.mp4" />
+			<media src="https://archive.org/download/WinnetouIIIDeutschlandYugoslawien1965SpielfilmWesternAbenteuer/Winnetou_III_Deutschland_Yugoslawien_1965_Spielfilm_Western_Abenteuer.mp4" />
+			<media src="https://archive.org/download/WinnetouUndSeinFreundOldFirehandWestern1966/Winnetou_und_sein_Freund_Old_Firehand_Western_1966.mp4" />
+			<media src="https://archive.org/download/WinnetouOldShatterhandImTalDerTotenWestern1968/Winnetou_Old_Shatterhand_im_Tal_der_Toten_Western_1968.mp4" />
+			<media src="https://archive.org/download/UnterGeiernDeutschlandFranceItaly1964SpielfilmWestern/Unter_Geiern_Deutschland_France_Italy_1964_Spielfilm_Western.mp4" />
+			<media src="https://archive.org/download/DerOelprinzAbenteuerfilm1965/Der_Oelprinz_Abenteuerfilm_1965.mp4" />
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,28 @@
+<?wpl version="1.0"?>
+<smil>
+	<head>
+		<meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5145"/>
+		<meta name="AverageRating" content="0"/>
+		<meta name="TotalDuration" content="0"/>
+		<meta name="ItemCount" content="13"/>
+		<author/>
+		<title></title>
+	</head>
+	<body>
+		<seq>
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/040/001.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/040/002.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/040/003.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/040/004.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/040/005.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/040/006.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/040/007.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/040/008.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/040/009.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/040/010.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/040/011.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/040/012.mp3" />
+			<media src="https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/040/013.mp3" />
+		</seq>
+	</body>
+</smil>

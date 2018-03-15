@@ -1,0 +1,23 @@
+<?wpl version="1.0"?>
+<smil>
+	<head>
+		<meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5145"/>
+		<meta name="AverageRating" content="0"/>
+		<meta name="TotalDuration" content="0"/>
+		<meta name="ItemCount" content="8"/>
+		<author/>
+		<title></title>
+	</head>
+	<body>
+		<seq>
+			<media src="https://drive.google.com/uc?export=download&id=0Bw-cQ5icBPqmWmI2X0lwdTFxTG8"/>
+			<media src="https://drive.google.com/uc?export=download&id=0Bw-cQ5icBPqmZUctclV0QUVFMVE"/>
+			<media src="https://drive.google.com/uc?export=download&id=0Bw-cQ5icBPqmUFNVSjlndVFTUzA"/>
+			<media src="https://drive.google.com/uc?export=download&id=0Bw-cQ5icBPqmUUxuMFJZRmZUakk"/>
+      <media src="https://drive.google.com/uc?export=download&id=0Bw-cQ5icBPqmZmRkd2dUaHF0ZFk"/>
+      <media src="https://drive.google.com/uc?export=download&id=0Bw-cQ5icBPqmMVZ6MERYb2dYbUE"/>
+      <media src="https://drive.google.com/uc?export=download&id=0Bw-cQ5icBPqmaHZxQ0liQURWa1U"/>
+      <media src="https://drive.google.com/uc?export=download&id=0Bw-cQ5icBPqmTkt6ZzdabFdybm8"/>
+		</seq>
+	</body>
+</smil>
